@@ -46,10 +46,17 @@ The response contains a fundamental factual error that leads to an inappropriate
 Completed — Self-developed portfolio demonstration.
 ## 10. References
 
-1. CDC. About Common Cold.
-   https://www.cdc.gov/common-cold/
+1. Centers for Disease Control and Prevention (CDC). About Common Cold. February 19, 2026.
+   https://www.cdc.gov/common-cold/about/index.html
 
-2. CDC. About Antibiotic Use.
-   https://www.cdc.gov/antibiotic-use/
-   
+2. Centers for Disease Control and Prevention (CDC). Manage Common Cold. March 11, 2026.
+   https://www.cdc.gov/common-cold/treatment/index.html
+
+3. Centers for Disease Control and Prevention (CDC). Healthy Habits: Antibiotic Do's and Don'ts. September 23, 2025.
+   https://www.cdc.gov/antibiotic-use/about/index.html
+
+---
+
 **Evaluator:** Ifeanyi Victor Nnajiofor, MBBS
+   
+
