@@ -29,13 +29,16 @@ Each evaluation exercise will include:
 
 ## Portfolio Exercises
 
-Practical evaluation exercises will be added progressively.
+### Completed Exercises
 
-- AI response accuracy evaluation
+- [Exercise 01: Common Cold and Antibiotic Use](evaluation-01-common-cold.md) — Factual accuracy and medical safety assessment.
+
+### Planned Exercises
+
 - Hallucination detection
 - Instruction-following assessment
 - Response quality comparison
-- Healthcare-related AI response evaluation
+- Healthcare AI safety evaluation
 
 ## About
 
