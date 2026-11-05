@@ -44,5 +44,11 @@ The response contains a fundamental factual error that leads to an inappropriate
 ## 9. Exercise Status
 
 Completed — Self-developed portfolio demonstration.
+## 10. References
 
+1. CDC. About Common Cold.
+   https://www.cdc.gov/common-cold/
+
+2. CDC. About Antibiotic Use.
+   https://www.cdc.gov/antibiotic-use/
 **Evaluator:** Ifeanyi Victor Nnajiofor, MBBS
